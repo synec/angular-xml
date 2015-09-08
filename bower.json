@@ -18,6 +18,6 @@
     "angular-mocks": "~1.4.2"
   },
   "dependencies": {
-    "x2js": "https://github.com/synec/x2js.git"
+    "x2js": "https://github.com/synec/x2js.git#4baaaf0faea65227bcb3ce3e21f4b4c3b5631167"
   }
 }
